@@ -5,6 +5,7 @@ Aplicação Web de código aberto desenvolvida pela StartUp [Hero Code](https://
 - HTML
 - CSS
  - Bootstrap Grid
+- Heroku
 - JavaScript
  - JQuery
  - Google Maps API
